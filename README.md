@@ -1,20 +1,31 @@
-#  Welcome to my GitHub
-###  Data Analyst/Scientist - Identifies business needs and develops valuable solutions to improve accuracy and process optimization. Drives business success with recommendations based on data findings. Previously as a teacher, a professional focused on maximizing student educational potential by applying diverse instructional strategies and classroom management techniques. Skillful in delivering lectures, facilitating discussions and planning to enhance learning. Using this, I bring a wealth of experience in data analysis and project modeling to guide research and demonstrations. Willingness to take on added responsibilities to meet team goals.
+#  Welcome to my GitHub     by                                                                                                          Jacquelyn Harland
+####  Data Analyst/Scientist - Identifies business needs and develops valuable solutions to improve accuracy and process optimization. Drives business success with recommendations based on data findings. Previously as a teacher, a professional focused on maximizing student educational potential by applying diverse instructional strategies and classroom management techniques. Skillful in delivering lectures, facilitating discussions and planning to enhance learning. Using this, I bring a wealth of experience in data analysis and project modeling to guide research and demonstrations. Willingness to take on added responsibilities to meet team goals.
 
-####  Project 1:  Belly Button Biodiversity Dashboard using Plotly
-#####             Resources
-Data Source: BellyButton_bar_chart_starter_code.js, BellyButton_bubble_chart_starter_code.js, BellyButton_bubble_chart_starter_code.js and index.html • Data Tools: ECMAScript, JavaScript, JSON and IO (Web Server) • Software: ES6+, ECMAScript and Visual Studio Code 1.50.0\
+##  Project 1:  Belly Button Biodiversity Dashboard using Plotly
+####             Resources
+####  Data Source: BellyButton_bar_chart_starter_code.js, BellyButton_bubble_chart_starter_code.js, BellyButton_bubble_chart_starter_code.js and index.html • Data Tools: ECMAScript, JavaScript, JSON and IO (Web Server) • Software: ES6+, ECMAScript and Visual Studio Code 1.50.0\
+####              Overview
+Plotly provides graphing, analytics, and statistics tools, as well as scientific graphing libraries for Python, R, MATLAB, Perl, Julia, Arduino, and REST.  Plotly is an open-source library that provides a list of chart types as well as tools with callbacks to make a dashboard. The charts we have constructed and embedded are all made in chart studio of plotly. 
+When Mrs. Roza came to us, she had partially completed a dashboard. A completed panel for demographic information allows for a user-friendly convenience.  We have constructed a chart to visualize the bacterial data for each volunteer allowing them to identify the top 10 bacterial species in their belly buttons. Furnishing this information will allow Improbable Beef the ability to identify a species, as a candidate, to manufacture synthetic beef.  Roza's volunteers will be able to identify whether that species is found in their navel.
+The interactive dashboard explores the Belly Button Biodiversity dataset, which catalogs the microbes that colonize human navels.  The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.
 
 #  [View Belly Button Dashboard](http://127.0.0.1:5500/index2.html)
 
-#####             Elements Constructed:
+##           Elements Constructed:
 1.	 Horizontal Bar Chart
 2.	 Bubble Chart
 3.	 Gauge Chart
 4.	 Customize the Dashboard
 5.	 Report on the Belly Button Biodiversity Dashboard analysis 
-Element Constructed:
-1: Horizontal Bar Chart
+
+##             Interactive Dashboard
+<p align="center">
+   <img width="600" height="400" src="https://github.com/jacquie0583/plotly_chart/blob/main/Image%201.png">   
+</p> 
+
+
+
+###  1: Horizontal Bar Chart
 Using JavaScript, Plotly, and D3.js, we created a horizontal bar chart to display the top 10 bacterial species (OTUs) when an individual’s ID is selected from the dropdown menu on the webpage. The horizontal bar chart displays the sample_values as the values, the otu_ids as the labels, and the otu_labels as the hover text for the bars on the chart.
 ####  Code and Image
 <p align="center">
@@ -32,12 +43,7 @@ Using JavaScript, Plotly, and D3.js, we created a horizontal bar chart to displa
           o	The top 10 sample_values are sorted in descending order
           o	The top 10 sample_values as values
           o	The otu_ids as the labels
-####  Code and Image
-<p align="center">
-   <img width="400" height="200" src="https://github.com/jacquie0583/plotly_chart/blob/main/image%204.png">   
-</p>
-        
-        
+     
 ### 2:  Bubble Chart
 Using your knowledge of JavaScript, Plotly, and D3.js, create a bubble chart that will display the following when an individual’s ID is selected from the dropdown menu webpage:
 
@@ -84,8 +90,6 @@ Finally we created a gauge chart that displays the weekly washing frequency's va
       2.	When the webpage loads, the bar and bubble chart are working according to the requirements in Deliverable 1 and 2, respectively,            and the gauge chart is working according to the requirements listed for this Deliverable
 
 
-<p align="center">
-   <img width="800" height="800" src="https://github.com/jacquie0583/plotly_chart/blob/main/Image%201.png">   
-</p> 
+
 
 
