@@ -1,4 +1,5 @@
-#  Welcome to my GitHub     by                                                                                                          Jacquelyn Harland
+#  Welcome to my GitHub    
+#  Jacquelyn Harland
 ####  Data Analyst/Scientist - Identifies business needs and develops valuable solutions to improve accuracy and process optimization. Drives business success with recommendations based on data findings. Previously as a teacher, a professional focused on maximizing student educational potential by applying diverse instructional strategies and classroom management techniques. Skillful in delivering lectures, facilitating discussions and planning to enhance learning. Using this, I bring a wealth of experience in data analysis and project modeling to guide research and demonstrations. Willingness to take on added responsibilities to meet team goals.
 
 ##  Project 1:  Belly Button Biodiversity Dashboard using Plotly
@@ -19,6 +20,7 @@ The interactive dashboard explores the Belly Button Biodiversity dataset, which 
 5.	 Report on the Belly Button Biodiversity Dashboard analysis 
 
 ##             Interactive Dashboard
+
 <p align="center">
    <img width="600" height="400" src="https://github.com/jacquie0583/plotly_chart/blob/main/Image%201.png">   
 </p> 
@@ -66,6 +68,7 @@ Using your knowledge of JavaScript, Plotly, and D3.js, create a bubble chart tha
     3. When the dashboard is first opened in a browser, ID 940’s data should be displayed in the dashboard. All three charts should also          be working according to their requirements when a sample is selected from the dropdown menu.
         
  ####  Code and Image
+ 
 <p align="center">
    <img width="400" height="200" src="https://github.com/jacquie0583/plotly_chart/blob/main/image%205.png">   
 </p>  
