@@ -1,4 +1,4 @@
-#  Jacquelyn Harland
+##  Welcome...  Jacquelyn Harland
 ####  Data Analyst/Scientist - Identifies business needs and develops valuable solutions to improve accuracy and process optimization. Drives business success with recommendations based on data findings. Previously as a teacher, a professional focused on maximizing student educational potential by applying diverse instructional strategies and classroom management techniques. Skillful in delivering lectures, facilitating discussions and planning to enhance learning. Using this, I bring a wealth of experience in data analysis and project modeling to guide research and demonstrations. Willingness to take on added responsibilities to meet team goals.
 
 ##  Project 1:  Belly Button Biodiversity Dashboard using Plotly
