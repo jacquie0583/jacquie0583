@@ -65,7 +65,7 @@ Using your knowledge of JavaScript, Plotly, and D3.js, create a bubble chart tha
        o	Creates a title
        o	Creates a label for the x-axis
        o	The text for a bubble is shown when hovered over
-    3. When the dashboard is first opened in a browser, ID 940’s data should be displayed in the dashboard. All three charts should also          be working according to their requirements when a sample is selected from the dropdown menu.
+    3. When the dashboard is first opened in a browser, ID 940’s data should be displayed in the dashboard. All three charts should also          be working according to their            requirements when a sample is selected from the dropdown menu.
         
  ####  Code and Image
  
