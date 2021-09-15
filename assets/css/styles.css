@@ -115,6 +115,7 @@ header.masthead h2 {
     -webkit-transition: all ease 0.5s;
     transition: all ease 0.5s;
     opacity: 1;
+    padding: 2px;
     background-color: rgba(48, 51, 107, 0.7);
 }
 
