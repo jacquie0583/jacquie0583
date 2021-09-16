@@ -455,12 +455,24 @@
                         <hr class="star-dark mb-5" />
                         <img class="img-fluid mb-5" src="img/portfolio/project4.jpg" alt="" />
                         <p class="mb-5">
-                            Lorem ipsum dolor sit amet, consectetur
-                            adipisicing elit. Mollitia neque assumenda ipsam
-                            nihil, molestias magnam, recusandae quos quis
-                            inventore quisquam velit asperiores, vitae?
-                            Reprehenderit soluta, eos quod consequuntur
-                            itaque. Nam.
+                           Use BeautifulSoup, Splinter, and Pandas to scrape five different webpages related to Mars, and display the results on a webpage using MongoDB and Flask.
+                           Step 1
+                            Scraping 
+                            
+                                     • Scraped the NASA Mars News Site and collected the latest News Title and Paragraph Text
+                                     • JPL Mars Space Images - Featured Image
+                                     • Use Splinter to navigated the site and found the image URL for the current Featured Mars Image and assigned the URL 
+                                        string to a variable called img_url
+                           Mars Facts
+                                     • Visited the Mars Facts webpage and used Pandas to scrape the table containing facts about the planet including Diameter, Mass, etc.
+                                     • Use Pandas to convert the data to a HTML table string
+
+                           Mars Hemispheres
+                                     • Visited the USGS Astrogeology site to obtain high resolution images for each of Mar's hemispheres
+                                     • Saved both the image URL string for the full resolution hemisphere image, and the Hemisphere title containing the hemisphere name.
+                                     o Used a Python dictionary to store the data using the keys hemisphere_image and title
+                                     • Appended the dictionary with the image URL string and the hemisphere title to a list
+                           Step 2 - MongoDB and Flask Application
                         </p>
                         <a class="btn btn-primary portfolio-modal-dismiss" href="#">
                             Live Demo
