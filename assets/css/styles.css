@@ -10,7 +10,9 @@ h5,
 h6 {
     font-weight: 100;
 }
-
+.h-100{
+    height: 130% !important;
+}
 hr {
     border-color: #fff;
     margin-top: 2.5rem;
@@ -116,7 +118,7 @@ header.masthead h2 {
     transition: all ease 0.5s;
     opacity: 1;
     padding: 2px;
-    background-color: rgba(48, 51, 107, 0.7);
+    background-color: #30336b;
 }
 
 .portfolio .portfolio-item .portfolio-item-caption:hover {
