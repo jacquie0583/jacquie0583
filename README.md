@@ -2,6 +2,28 @@
 ##  Jacquelyn Harland's Portfolio
 ####  Data Analyst/Scientist - Identifies business needs and develops valuable solutions to improve accuracy and process optimization. Drives business success with recommendations based on data findings. Previously as a teacher, a professional focused on maximizing student educational potential by applying diverse instructional strategies and classroom management techniques. Skillful in delivering lectures, facilitating discussions and planning to enhance learning. Using this, I bring a wealth of experience in data analysis and project modeling to guide research and demonstrations. Willingness to take on added responsibilities to meet team goals.
 
+##  Recently acquired the following technical skills: 
+   Excel| Excel/VBA| Python| SQL| Java Script | Tableau| GIS| Leaflet| HTML/CSS| R | Postgres| Flask| Heroku| Business Analytics, Visualization & Storytelling. 
+
+##  SKILLS PROGRAMMING LANGUAGES & TOOLS:
+
+####   MACHINE LEARNING Natural Language Processing, Scikit-learn, PyTorch, Keras ,TensorFlow
+
+####   BIG DATA ANALYTICS Hadoop, PySpark, AWS, Google, Cloud, S3
+
+####   STATISTICS Modeling & Forecasting
+
+####   PYTHON PROGRAMMING Python, Pandas, NumPy ,Matplotlib, Seaborn, Flask, API, Interactions, Social ,Media Mining
+
+####   DATABASES MySQL, MongoDB, ETL, SQL
+
+####   FRONT-END WEB VISUALIZATION HTML, CSS, Bootstrap, Dashboarding, JavaScript, Charting D3.js, Plotly, Geomapping, with Leaflet.js
+
+####   BUSINESS INTELLIGENCE SOFTWARE Tableau Dashboard Creation & Geo Mapping
+
+####   LEADERSHIP, Team Managment
+
+
 ##  Project 1:  Belly Button Biodiversity Dashboard using Plotly
 ####             Resources
 ####  Data Source: BellyButton_bar_chart_starter_code.js, BellyButton_bubble_chart_starter_code.js, BellyButton_bubble_chart_starter_code.js and index.html • Data Tools: ECMAScript, JavaScript, JSON and IO (Web Server) • Software: ES6+, ECMAScript and Visual Studio Code 1.50.0\
