@@ -1,6 +1,6 @@
 #  Welcome  
 ##  Jacquelyn Harland's Portfolio
-####  Data Analyst/Scientist - Identifies business needs and develops valuable solutions to improve accuracy and process optimization. Drives business success with recommendations based on data findings. Previously as a teacher, a professional focused on maximizing student educational potential by applying diverse instructional strategies and classroom management techniques. Skillful in delivering lectures, facilitating discussions and planning to enhance learning. Using this, I bring a wealth of experience in data analysis and project modeling to guide research and demonstrations. Willingness to take on added responsibilities to meet team goals.
+####  Data Engineer/Scientist - Identifies business needs and develops valuable solutions to improve accuracy and process optimization. Drives business success with recommendations based on data findings. Previously as a teacher, a professional focused on maximizing student educational potential by applying diverse instructional strategies and classroom management techniques. Skillful in delivering lectures, facilitating discussions and planning to enhance learning. Using this, I bring a wealth of experience in data analysis and project modeling to guide research and demonstrations. Willingness to take on added responsibilities to meet team goals.
 
 ##  Recently acquired the following technical skills: 
    Excel| Excel/VBA| Python| SQL| Java Script | Tableau| GIS| Leaflet| HTML/CSS| R | Postgres| Flask| Heroku| Business Analytics, Visualization & Storytelling. 
